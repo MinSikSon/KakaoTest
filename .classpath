@@ -5,8 +5,6 @@
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/KakaoLinkSplashActivity"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/LoginFreeTemplateActivity"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/sdk"/>
+	<classpathentry kind="lib" path="libs/sdk.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
